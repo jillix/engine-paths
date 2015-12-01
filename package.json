@@ -1,0 +1,27 @@
+{
+  "name": "engine-paths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jillix/engine-paths.git"
+  },
+  "keywords": [
+    "engine",
+    "jillix",
+    "paths"
+  ],
+  "author": "jillix <contact@jillix.com> (http://jillix.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jillix/engine-paths/issues"
+  },
+  "homepage": "https://github.com/jillix/engine-paths#readme"
+}
