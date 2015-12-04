@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jillix/engine-paths/issues"
   },
-  "homepage": "https://github.com/jillix/engine-paths#readme"
+  "homepage": "https://github.com/jillix/engine-paths#readme",
+  "dependencies": {
+    "abs": "^1.2.0"
+  }
 }
