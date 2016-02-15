@@ -1,6 +1,6 @@
-# engine-paths
+# engine-paths [![Version](https://img.shields.io/npm/v/engine-paths.svg)](https://www.npmjs.com/package/engine-paths) [![Downloads](https://img.shields.io/npm/dt/engine-paths.svg)](https://www.npmjs.com/package/engine-paths)
 
-Keeping the Engine paths in one place.
+> Keeping the Engine paths in one place.
 
 ## Installation
 
@@ -53,6 +53,10 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
+
+ - [`engine-app`](https://github.com/jillix/engine-app#readme) by jillix
+
+ - [`engine-composition-crud`](https://github.com/jillix/engine-composition-crud#readme) by jillix
 
 ## License
 
