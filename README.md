@@ -48,6 +48,15 @@ Gets the absolute path to the JSON file.
 #### Return
 - **String** The absolute path to the instance file.
 
+### `modulePack(name)`
+Gets the `package.json` file path of a module.
+
+#### Params
+- **String** `name`: The module name.
+
+#### Return
+- **String** The absolute path to the package.json of the module.
+
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
