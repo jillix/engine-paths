@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/jillix/engine-paths#readme",
   "dependencies": {
-    "abs": "^1.2.0"
+    "abs": "^1.2.0",
+    "package-json-path": "^1.0.0"
   }
 }
